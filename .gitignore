@@ -1,3 +1,4 @@
 # Created by .ignore support plugin (hsz.mobi)
 /WebSocket-Node.js-demo.iml
 /.idea/
+/package-lock.json
