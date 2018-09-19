@@ -2,7 +2,7 @@ const moment = require('moment');
 const WebSocket = require('ws');
 const pako = require('pako');
 
-const WS_URL = 'wss://api.hadax.com/ws';
+const WS_URL = 'wss://api.hadax.com/ws/v1';
 
 
 var orderbook = {};
